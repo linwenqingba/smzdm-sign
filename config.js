@@ -17,7 +17,7 @@ const cookieListValKey = [
 	{
 		'username': '非必填，用户发送邮件展示',
 		'phone': '非必填，用户发送邮件展示',
-		'cookies': '必填，取自用户登录后的cookie，获取方法见说明文档'
+		'cookies': '__ckguid=VeO4fyoaYjjikjvQx6Pu896; device_id=18507853911708588937391654ce4fece908d4a9f8062d56b2bb5f779b; smzdm_user_source=7526F98E6E86A5FBF7B7F10B9D020041; sess=BA-hT0ZX9YqP7cou2y7k%2BtkSORWwVBW6XRV84f4Urjh6baNaCoZQ0cwh%2FtYJG1behu%2B%2FBKsR7LDqZ79cXEfdAk1JaQMr%2BmXVk64Y%2Fo925735o8gXqKO6ayuzeTI; user=user%3A1076322352%7C1076322352; smzdm_id=1076322352; homepage_sug=c; r_sort_type=score; _zdmA.uid=ZDMA.HyS_h6Emk.1708591360.2419200; smzdm_user_view=A4FA6D0DC344D6571B503C8623140868'
 	},
 ];
 
