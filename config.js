@@ -6,11 +6,11 @@
  */
 
 // email 登陆账号 如：xxxx@qq.com
-const emailName = 'xxxx@qq.com';
+const emailName = '1846027927@qq.com';
 // email 登陆密码
-const emailPassword = 'aaaaabbbb';
+const emailPassword = 'lwq111111';
 // 接收者 邮箱
-const toEmail = 'xxx@qq.com';
+const toEmail = '1846027927@qq.com';
 
 //用于签到的 账号信息 列表
 const cookieListValKey = [
