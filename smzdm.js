@@ -6,7 +6,6 @@
 
 const request = require('./lib/request_https');
 const cheerio = require("cheerio"); //文档转换
-const ejs = require("ejs"); //模板
 const schedule = require("node-schedule"); //定时器
 const { getRandom, ascii2native } = require('./lib/utils'); //工具类
 const { mailSend } = require("./lib/mail"); //发邮件
